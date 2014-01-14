@@ -33,7 +33,7 @@ import android.view.View;
  */
 public class TileView extends View {
 
-    /**
+    /** altera um comentario pra não caga tudo
      * Parameters controlling the size of the tiles and their range within view.
      * Width/Height are in pixels, and Drawables will be scaled to fit to these
      * dimensions. X/Y Tile Counts are the number of tiles that will be drawn.
